@@ -65,10 +65,10 @@
     .ad-div-title{
         left: 8px;
         white-space: wrap;
-        font-size: 15px;
+        font-size: 17px;
     }
     .text{
-        font-size: 12px;
+        font-size: 14px;
     }
     .main-div{
         flex-direction: column;
